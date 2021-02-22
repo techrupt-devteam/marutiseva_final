@@ -121,44 +121,16 @@
           </div>
         </div>
       </div>
-      <!-- <div class="row">
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="mainlinks">
-                <ul><li><a href="request-a-test-drive-now.php" style=" background:#2e3094; padding:5px 10px"><i class="mdi mdi-steering"></i> Request a Test Drive</a></li></ul>
-          <ul><li><a href="http://nexa.marutiseva.com">Nexa </a></li></ul>
-          <ul><li><a href="http://commercial.marutiseva.com"> Commercial Vehicles</a></li></ul>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-3 col-sm-3">
-          <div class="mainlinks">
-            <h4>Services</h4>
-           <ul>
-             <li><a href="schedule-services.php">Schedule Services</a></li>
-            </ul>
-      </div>
-        </div>
-        <div class="col-lg-3 col-md-3 col-sm-3">
-         <div class="mainlinks">
-           <h4> Value Added Services</h4>
-              <ul>
-                <li><a href="value-added-services.php">Value Added Services</a></li>
-                <li><a href="latest-offers.php">Latest Offers</a></li>
-                <li><a href="maruti-insurance.php">Maruti Insurance</a></li>
-                <li><a href="maruti-finance.php">Maruti Finance</a></li>
-              </ul>
-            </div>
-        </div>
-      </div> --> 
+     
     </div>
-    <div class="car-icon-one" style="background-image:url(assets/images/icon/car-icon.png)"></div>
-     <div class="car-icon-two" style="background-image:url(assets/images/icon/car-icon-2.png)"></div>
+   
   </div>
   
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          <div>© 2020 Seva Automotive|Design by <a href="#" target="_blank">Techrupt</a></div>
+          <div>© 2020 Seva Automotive | Design by <a href="#" target="_blank">Techrupt</a></div>
         </div>
         <div class="col-md-4 col-6 text-md-right mx-auto">
          <div class="social-media text-md-right"> 

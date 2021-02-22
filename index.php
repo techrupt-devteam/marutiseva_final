@@ -15,7 +15,7 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
             <!--  <div class="col-md-6 text-left">Welcome to Seva</div> -->
             <div class="col-md-4 ml-auto text-md-right">
               <picture>
-                <source srcset="assets/images/marutilogo.webp" type="image/webp">
+                <source srcset="assets/images/icon/maruti-opisial.svg" type="image/webp">
                 <source srcset="assets/images/marutilogo.png" type="image/png">
                 <img src="assets/images/marutilogo.png" class="martuiLogo lazyload"> </picture>
             </div>
@@ -23,11 +23,24 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
         </div>
         <div class="row">
           <div class="col-md-6 mx-auto">
-            <div class="seva-logo"> <img src="assets/images/intro-logo.png" class="lazyload" /> </div>
+            <div class="seva-logo"> <img src="assets/images/icon/seva-logo.svg" class="lazyload" style="width: 180px;" /> </div>
           </div>
         </div>
         <h2>Select your Drive</h2>
-        <div class="other-sites" id="popupfoot"> <a class="close agree" href="https://marutiseva.com/"> <img src="assets/images/intro-maruti-suzki-arena.svg" class="lazyload"  /> </a> <a href="https://nexa.marutiseva.com/"> <img src="assets/images/intro-nexa.svg" class="lazyload"/> </a> <a href="https://truevalue.marutiseva.com/"> <img src="assets/images/intro-true-value.png" /> </a> <a href="https://commercial.marutiseva.com/"> <img src="assets/images/intro-commercial.svg" class="lazyload"  /> </a> </div>
+        <div class="other-sites" id="popupfoot"> 
+          <a class="close agree" href="https://marutiseva.com/"> 
+            <img src="assets/images/icon/arena.svg" class="lazyload"  /> 
+          </a> 
+          <a href="https://nexa.marutiseva.com/"> 
+            <img src="assets/images/icon/nexa.svg" class="lazyload"/> 
+          </a> 
+          <a href="https://truevalue.marutiseva.com/"> 
+            <img src="assets/images/true-value-white.svg" /> 
+          </a> 
+          <a href="https://commercial.marutiseva.com/"> 
+            <img src="assets/images/icon/commercial.svg" class="lazyload"  /> 
+          </a> 
+        </div>
       </div>
     </div>
     <div id="mask"></div>
@@ -68,6 +81,237 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
       </div>
     </div>
   </div>
+  <section class="feature-car car_browse_area page-section-ptb">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="section-title"> <span>Check out our recent cars</span>
+            <h2>Product</h2>
+            <div class="separator"></div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div id="blogCarousel" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#blogCarousel" data-slide-to="1"></li>
+            </ol>
+            
+            
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div class="row">
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/swift/exterior1.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/vitara-brezza/exterior1.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/ignis/top-mobile.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/alto/exterior-3.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+               
+              </div>
+             
+              
+              <div class="carousel-item">
+                <div class="row">
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/alto/alto-12.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/wagonr/wegonr.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/s-presso/s-presso.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-3 col-6">
+                    <div class="car-item">
+                      <div class="car-image"> <img src="assets/images/exterior1.jpg" alt="Image" style="max-width:100%;">
+                        <div class="car-overlay-banner">
+                          <ul>
+                            <li><a href="#"><i class="mdi mdi-car-sports"></i></a></li>
+                            <li><a href="#"><i class="mdi mdi-download"></i></a></li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="car-list">
+                        <ul class="list-inline">
+                          <li><i class="fa fa-registered"></i> 2017</li>
+                          <li><i class="fa fa-cog"></i> Manual </li>
+                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
+                        </ul>
+                      </div>
+                      <div class="car-content">
+                        <div class="star"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
+                        <a href="#">GTA 5 Lowriders DLC</a>
+                        <div class="separator d-none d-md-block"></div>
+                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="container-fluid treading-section hero">
     <div class="outer slick-initialized slick-slider">
       <div class="slick-list draggable">
@@ -220,605 +464,9 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
     </div>
 </section> -->
   
-  <!-- <section class="feature-car car_browse_area page-section-ptb">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="section-title"> <span>Check out our recent cars</span>
-            <h2>Feature Car </h2>
-            <div class="separator"></div>
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div id="blogCarousel" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-              <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
-              <li data-target="#blogCarousel" data-slide-to="1"></li>
-            </ol>
-            
-            
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <div class="row">
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/swift/exterior1.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/vitara-brezza/exterior1.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/ignis/top-mobile.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/alto/exterior-3.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-               
-              </div>
-             
-              
-              <div class="carousel-item">
-                <div class="row">
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/alto/alto-12.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/wagonr/wegonr.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/s-presso/s-presso.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star d-none d-md-block"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-md-3 col-6">
-                    <div class="car-item">
-                      <div class="car-image"> <img src="assets/images/exterior1.jpg" alt="Image" style="max-width:100%;">
-                        <div class="car-overlay-banner">
-                          <ul>
-                            <li><a href="#"><i class="fa fa-eye"></i></a></li>
-                            <li><a href="#"><i class="fa fa-cart-arrow-down"></i></a></li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="car-list">
-                        <ul class="list-inline">
-                          <li><i class="fa fa-registered"></i> 2017</li>
-                          <li><i class="fa fa-cog"></i> Manual </li>
-                          <li><i class="fa fa-cart-arrow-down"></i> 6,000 mi</li>
-                        </ul>
-                      </div>
-                      <div class="car-content">
-                        <div class="star"> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star orange-color"></i> <i class="fa fa-star-o orange-color"></i> </div>
-                        <a href="#">GTA 5 Lowriders DLC</a>
-                        <div class="separator d-none d-md-block"></div>
-                        <div class="price"> <span class="old-price"><i class="fa fa-inr" aria-hidden="true"></i> 45,768</span> <span class="new-price"><i class="fa fa-inr" aria-hidden="true"></i> 41,398 </span> </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
-
-<!--Our Range Start -->
-<div class="container-fluid feature-car">
-  <div class="my-5">
-    <div class="section-title mb-2">
-      <span>Check out our recent cars</span>
-      <h2>Our Range</h2>
-      <div class="separator"></div>
-    </div>
-    <div class="one-product">
-      <div class="one-product__slider">
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="alto.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/alto/Alto_Brand_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="alto.php"> <img src="assets/images/hatchbacks/alto-800.png" alt="" data-zoom-image="assets/images/hatchbacks/alto-800.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Alto</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="alto.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/alto/Alto_Brand_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="wagonr.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/wagonr/WagonR_Brand_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="wagonr.php"> <img src="assets/images/hatchbacks/wagnor.png" alt="" data-zoom-image="assets/images/hatchbacks/wagnor.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>WagonR</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="wagonr.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/wagonr/WagonR_Brand_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="celerio.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/celerio/Celerio_brand_brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="celerio.php"> <img src="assets/images/hatchbacks/Celerio-side-shot.png" alt="" data-zoom-image="assets/images/hatchbacks/Celerio-side-shot.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Celerio</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="celerio.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/celerio/Celerio_brand_brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="celerio-x.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/celerio-x/Celerio-x_brand_brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="celerio-x.php"> <img src="assets/images/hatchbacks/celerio-x.jpg" alt=""  data-zoom-image="assets/images/hatchbacks/celerio-x.jpg" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Celerio X</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="celerio-x.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/celerio-x/Celerio-x_brand_brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="swift.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/swift/Swift_Product_Brand_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="swift.php"> <img src="assets/images/hatchbacks/swift.png" alt="" data-zoom-image="assets/images/hatchbacks/swift.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Swift</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="swift.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/swift/Swift_Product_Brand_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="dzire.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/dzire/Dzire_Brand_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="dzire.php"> <img src="assets/images/sedan/DZireside.png" alt="" data-zoom-image="assets/images/sedan/DZireside.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>DZire</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="dzire.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/dzire/Dzire_Brand_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="s-presso.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/s-presso/S-PRESSO_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="s-presso.php"> <img src="assets/images/muvs-suvs/s-presso_range.png" alt="" data-zoom-image="assets/images/muvs-suvs/s-presso_range.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>S-PRESSO</h4>
-            <!--<div class="d-flex justify-content-center">
-    <a href="s-presso.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-    <a href="assets/images/s-presso/S-PRESSO_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-    </div>--> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="ertiga.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/ertiga/Ertiga_Brand_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="ertiga.php"> <img src="assets/images/muvs-suvs/ertiga_2.png" alt="" data-zoom-image="assets/images/muvs-suvs/ertiga_2.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Ertiga</h4>
-            <!--<div class="d-flex justify-content-center">
-              <a href="ertiga.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-              <a href="assets/images/ertiga/Ertiga_Brand_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-              </div>
-            --> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="vitara-brezza.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/vitara-brezza/Vitara-Brezza_Brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="vitara-brezza.php"> <img src="assets/images/muvs-suvs/BrezzaProfileMMc.png" alt="" data-zoom-image="assets/images/muvs-suvs/BrezzaProfileMMc.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>Vitara Brezza</h4>
-            <!--<div class="d-flex justify-content-center">
-            <a href="vitara-brezza.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-            <a href="assets/images/vitara-brezza/Vitara-Brezza_Brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-            </div>
-          --> 
-          </div>
-        </div>
-        <div class="item">
-          <div class="car-container">
-            <ul class="carbtnsticky">
-              <li>
-                <p><a href="eeco.php"><i class="mdi mdi-car-sports"></i> <b>Explore Car Details</b></a></p>
-              </li>
-              <li>
-                <p><a href="assets/images/eeco/Eeco_Brand_brochure.pdf" target="_blank"><i class="mdi mdi-download"></i> <b> Download Brochure</b></a></p>
-              </li>
-            </ul>
-          </div>
-          <a class="fancybox" rel="group" href="eeco.php"> <img src="assets/images/vans/eeco.png" alt="" data-zoom-image="assets/images/vans/eeco.png" class="zoom lazyload"/> </a>
-          <div class="slider_CarDetails">
-            <h4>EECO</h4>
-            <!--<div class="d-flex justify-content-center">
-            <a href="eeco.php" class="button button-purple button-180 triggerBookAShowRoomVisitButton">Explore Car Details</a>
-            <a href="assets/images/eeco/Eeco_Brand_brochure.pdf" class="button button-red button-180 bookAServiceAppointmentButton">Download Brochure</a>
-            </div>
-          --> 
-          </div>
-        </div>
-      </div>
-      <div class="one-product__slider_navigation">
-        <div class="item"> <img src="assets/images/hatchbacks/alto-800.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/hatchbacks/wagnor.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/hatchbacks/Celerio-side-shot.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/hatchbacks/celerio-x.jpg" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/hatchbacks/swift.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/sedan/DZireside.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/muvs-suvs/s-presso_range.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/muvs-suvs/ertiga_2.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/muvs-suvs/BrezzaProfileMMc.png" alt="" class="lazyload" /> </div>
-        <div class="item"> <img src="assets/images/vans/eeco.png" alt="" class="lazyload" /> </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!--Our Range End-->
 
 
-  <section class="listing-area pt-100">
-    <div class="container" style="max-width: 1420px;">
-      <div id="demo" class="carousel slide" data-ride="carousel"> 
-        
-        <!-- The slideshow -->
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="row">
-              <div class="col-md-5 div-r">
-                <div class="listing-box-item">
-                  <div class="listing-item">
-                    <div class="listing-content">
-                      <h3>LISTING INFORMATION</h3>
-                      <div class="tag">$85,000</div>
-                      <h4>2021 Maruti Suzuki Dzire</h4>
-                    </div>
-                    <ul class="listing-list">
-                      <li>Mileage</li>
-                      <li><span> 128569 miles</span></li>
-                      <li>Body Type</li>
-                      <li><span> Sedan</span></li>
-                      <li>Doors</li>
-                      <li><span> Two Door</span></li>
-                      <li>Engine</li>
-                      <li><span> 2.4L I4 16V MPFI DOHC</span></li>
-                      <li>Transmission</li>
-                      <li><span> 4-Speed Automatic</span></li>
-                      <li>Drive Train</li>
-                      <li><span> Front Wheel Drive</span></li>
-                      <li>Exterior Color</li>
-                      <li><span> Green</span></li>
-                      <li>Interior Color</li>
-                      <li><span> Beige</span></li>
-                      <li>Condition</li>
-                      <li><span> New</span></li>
-                      <li>Fuel</li>
-                      <li><span> GAS</span></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-7 div-l"> <img src="assets/images/listing-1.jpg" class="car-slider"/> </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-5 div-r">
-                <div class="listing-box-item">
-                  <div class="listing-item">
-                    <div class="listing-content">
-                      <h3>LISTING INFORMATION</h3>
-                      <div class="tag">$85,000</div>
-                      <h4>2021  Swift dzire</h4>
-                    </div>
-                    <ul class="listing-list">
-                      <li>Mileage</li>
-                      <li><span> 128569 miles</span></li>
-                      <li>Body Type</li>
-                      <li><span> Sedan</span></li>
-                      <li>Doors</li>
-                      <li><span> Two Door</span></li>
-                      <li>Engine</li>
-                      <li><span> 2.4L I4 16V MPFI DOHC</span></li>
-                      <li>Transmission</li>
-                      <li><span> 4-Speed Automatic</span></li>
-                      <li>Drive Train</li>
-                      <li><span> Front Wheel Drive</span></li>
-                      <li>Exterior Color</li>
-                      <li><span> Green</span></li>
-                      <li>Interior Color</li>
-                      <li><span> Beige</span></li>
-                      <li>Condition</li>
-                      <li><span> New</span></li>
-                      <li>Fuel</li>
-                      <li><span> GAS</span></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-7 div-l"> <img src="assets/images/listing-2.jpg" class="car-slider"/> </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="row">
-              <div class="col-md-5 div-r">
-                <div class="listing-box-item">
-                  <div class="listing-item">
-                    <div class="listing-content">
-                      <h3>LISTING INFORMATION</h3>
-                      <div class="tag">$85,000</div>
-                      <h4>2021  Vitara Brezza</h4>
-                    </div>
-                    <ul class="listing-list">
-                      <li>Mileage</li>
-                      <li><span> 128569 miles</span></li>
-                      <li>Body Type</li>
-                      <li><span> Sedan</span></li>
-                      <li>Doors</li>
-                      <li><span> Two Door</span></li>
-                      <li>Engine</li>
-                      <li><span> 2.4L I4 16V MPFI DOHC</span></li>
-                      <li>Transmission</li>
-                      <li><span> 4-Speed Automatic</span></li>
-                      <li>Drive Train</li>
-                      <li><span> Front Wheel Drive</span></li>
-                      <li>Exterior Color</li>
-                      <li><span> Green</span></li>
-                      <li>Interior Color</li>
-                      <li><span> Beige</span></li>
-                      <li>Condition</li>
-                      <li><span> New</span></li>
-                      <li>Fuel</li>
-                      <li><span> GAS</span></li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-7 div-l"> <img src="assets/images/listing-3.jpg" class="car-slider"/> </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- Left and right controls -->
-        <div class="flaticon-left-arrow"> <a class="carousel-control-prev" href="#demo" data-slide="prev"> <span class="carousel-control-prev-icon"></span> </a> <a class="carousel-control-next" href="#demo" data-slide="next"> <span class="carousel-control-next-icon"></span> </a> </div>
-      </div>
-    </div>
-  </section>
+
   <section id="ts-feature" class="custom-block-3 white-bg page-section-pb">
     <div class="container">
       <div class="row">

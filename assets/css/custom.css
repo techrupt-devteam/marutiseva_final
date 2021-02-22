@@ -2963,13 +2963,16 @@ background-color:#000;
 	margin: -100px 0 0 -100px;
 }
 .website_intro {
-	background: rgb(255,255,255);
-	background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(233,236,246,1) 100%); /*position:fixed; width:100%; top:0; */
+	/* background: rgb(255,255,255); */
+	background: rgba(12, 67, 142, 0.61);
+	/* background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(233,236,246,1) 100%);  */
+	/*position:fixed; width:100%; top:0; */
 	text-align:center;
 	padding:0 0 2% 0;
 	overflow:hidden;
 	z-index:999; /*height:100vh;*/
-	border-radius: 8px;
+	border-radius: 2px;
+	border: 1px solid #484848;
 }
 .website_intro .seva-logo {
 	display:table;
@@ -2983,18 +2986,19 @@ background-color:#000;
 }
 .website_intro .other-sites a {
 	display:inline-block;
-	margin:0 30px;
+	margin:0 20px;
 	float:none;
 	opacity: 100;
 }
 .website_intro h2 {
 	font-size:38px;
-	text-transform:uppercase
+	text-transform:uppercase;
+	color: #fff;
 }
 .website_intro .welcomesect {
 	font-size:18px;
 	color:#2c3690;
-	background:#FFF;
+	background: rgba(12, 67, 142, 0);
 	padding: 10px 30px;
 	margin-bottom: 30px;
 	line-height: 33px;
@@ -3024,6 +3028,7 @@ background-color:#000;
 }
 #boxes #dialog {
 	width:60%; /*height:100vh;*/
+	max-width: 800px;
 }
 .formsection .form-group label {
 	color:#212121
