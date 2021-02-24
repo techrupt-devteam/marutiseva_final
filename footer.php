@@ -36,22 +36,9 @@
   <div class="footer-links footer-main">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 col-12">
-          <div class="mainlinks">
-            <ul>
-              <li><a href="https://www.marutiseva.com">Home</a></li>
-              <li><a href="about-us.php">About Us</a></li>
-              <li><a href="our-team.php">Our Team</a></li>
-              <li><a href="schedule-services.php">Schedule Services</a></li>
-              <li><a href="our-presence.php">Our Presence</a></li>
-              <li><a href="feedback.php">Feedback</a></li>
-              <li><a href="disclaimer.php">Terms & Conditions</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-lg-9">
+        <div class="col-lg-12">
           <div class="row">
-            <div class="col-lg-4 col-6">
+            <div class="col-lg-2 col-md-3 col-6">
               <div class="mainlinks">
                 <ul>
                   <li><a href="#"> Hatchbacks</a>
@@ -73,7 +60,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-4 col-6">
+            <div class="col-lg-3 col-md-3 col-6">
               <div class="mainlinks">
                 <ul>
                   <li><a href="#">Sedans</a>
@@ -95,10 +82,11 @@
                   <li><a href="career.php">Career</a>
                   
                   </li>
+                   <li><a href="request-a-test-drive-now.php" style=" background:#2e3094; padding:5px 10px"><i class="mdi mdi-steering"></i> Request a Test Drive</a></li>
                 </ul>
               </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3 col-md-3 col-6">
               <div class="mainlinks">
                 <!-- <h4> Value Added Services</h4> -->
                 <ul>
@@ -107,15 +95,37 @@
                   <li><a href="maruti-insurance.php">Maruti Insurance</a></li>
                   <li><a href="maruti-finance.php">Maruti Finance</a></li>
                 </ul>
-                <ul>
-                  <li><a href="request-a-test-drive-now.php" style=" background:#2e3094; padding:5px 10px"><i class="mdi mdi-steering"></i> Request a Test Drive</a></li>
-                </ul>
+                
                 <ul>
                   <li><a href="http://nexa.marutiseva.com">Nexa </a></li>
                 </ul>
                 <ul>
                   <li><a href="http://commercial.marutiseva.com"> Commercial Vehicles</a></li>
+                  <li><a href="http://truevalue.marutiseva.com"> True Value </a></li>
                 </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4">
+              <div class="mainlinks">
+                <h4> Subscribe us </h4>
+                 <ul class="footer-newletter">
+                   <form method="post" action="get_updates.php" style="max-width: 320px;">
+                <div class="newsletter-form input-group">
+                  <input type="text" placeholder="Enter Email Address" name="email_id" class="col-10"  required="true" pattern="^([\w\-\.]+)@((\[([0-9]{1,3}\.){3}[0-9]{1,3}\])|(([\w\-]+\.)+)([a-zA-Z]{2,4}))$">
+                  <div class="input-group-append">
+                    <button name="submit"><i class="mdi mdi-chevron-right"></i></button>
+                  </div>
+                  <div id="element"></div>
+                </div>
+              </form>
+                 </ul>
+                 <div class="social-media text-md-right"> 
+                  <ul>
+                    <li><a href="https://www.facebook.com/sevamaruti/?fref=ts" target="_blank"><i class="mdi mdi-facebook"></i></a></li>
+                      <li><a href="https://twitter.com/sevaauto" target="_blank"><i class="mdi mdi-twitter"></i></a></li>
+                      <li><a href="https://www.instagram.com/seva_automotive/" target="_blank"><i class="mdi mdi-instagram"></i></a></li>
+                    </ul>
+                  </div>
               </div>
             </div>
           </div>
@@ -133,20 +143,18 @@
           <div>© 2020 Seva Automotive | Design by <a href="#" target="_blank">Techrupt</a></div>
         </div>
         <div class="col-md-4 col-6 text-md-right mx-auto">
-         <div class="social-media text-md-right"> 
-          <ul>
-            <li><a href="https://www.facebook.com/sevamaruti/?fref=ts" target="_blank"><i class="mdi mdi-facebook"></i></a></li>
-              <li><a href="https://twitter.com/sevaauto" target="_blank"><i class="mdi mdi-twitter"></i></a></li>
-              <li><a href="https://www.instagram.com/seva_automotive/" target="_blank"><i class="mdi mdi-instagram"></i></a></li>
-            </ul>
-          </div> 
+          <ul class="feed-terms">
+              <li><a href="feedback.php">Feedback</a></li>
+              <li><a href="disclaimer.php">Terms & Conditions</a></li>
+          </ul>
         </div>
       </div>
     </div>
   </div>
   </footer>
   <a href="#" id="toTopBtn" class="car-top cd-top text-replace js-cd-top cd-top--is-visible cd-top--fade-out" data-abc="true">
-   <span><img src="assets/images/car.png" alt=""></span> 
+    <span><img src="assets/images/car.png" alt="">
+   </span> 
   </a>
   </body>
   </html>

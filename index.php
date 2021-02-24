@@ -52,13 +52,7 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
       <div class="col-sm-12 px-0">
         <div id="carousel-example-1z" class="carousel slide carousel-fade desktop-view" data-ride="carousel">
           <div class="carousel-inner" role="listbox">
-            <div class="carousel-item active"> <a href="alto.php">
-              <picture>
-                <source srcset="assets/images/slider/slider-1.jpg" type="image/jpg">
-                <source srcset="assets/images/slider/slider-1.jpg" type="image/jpg">
-                <img class="d-block w-100 lazyload" src="assets/images/slider/slider-1.jpg" alt="First slide"> </picture>
-              </a> </div>
-            <div class="carousel-item"> <a href="celerio.php">
+            <div class="carousel-item active"> <a href="celerio.php">
               <picture>
                 <source srcset="assets/images/slider/slider-2.jpg" type="image/jpg">
                 <source srcset="assets/images/slider/slider-2.jpg" type="image/jpg">
@@ -399,112 +393,21 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
     </div>
   </div>
   
-  <!-- <section class="flat-highlight-products bg-f6f6f6">
-    <div class="container-fluid">
-            <div class="flat-imgbox row">
-                <div class="imgbox imgbox-1 col-md-4 col-6 d-none d-md-block">
-                  <div class="overlay"></div>
-                  <div class="row">
-                    <div class="col-md-4 align-self-center">
-                      <div class="imgbox-img">
-                          <img src="assets/images/icon/highlight-product-1.png" class="img-fluid">
-                      </div>
-                    </div>
-                    <div class="col-md-8">
-                      <div class="imgbox-content">
-                        <h2><a href="maruti-insurance.php">Protect Your Car by Safe and Secure Hands</a></h2>
-                        <p>Maruti Insurance is the Insurance Broking entity, which offers car insurance products</p>
-                        <div class="wrap-btn">
-                            <a href="maruti-insurance.php" class="flat-button btn-radius v2">VIEW MORE</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="imgbox imgbox-2 col-md-4 col-6">
-                  <div class="overlay"></div>
-                  <div class="row">
-                    <div class="col-md-4 align-self-center">
-                      <div class="imgbox-img">
-                        <img src="assets/images/icon/highlight-product-2.png" class="img-fluid">
-                      </div>
-                    </div>
-                    <div class="col-md-8">
-                      <div class="imgbox-content">
-                        <h2><a href="schedule-services.php">Schedule Service / Accident Repair</a></h2>
-                        <p>Seva's Authorised Maruti Suzuki service Centers to serve Best in Class and Professional Services</p>
-                        <div class="wrap-btn">
-                            <a href="schedule-services.php" class="flat-button btn-radius v2">BOOK SERVICE</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  
-                </div>
-                <div class="imgbox imgbox-3 col-md-4 col-6">
-                  <div class="overlay"></div>
-                  <div class="row">
-                    <div class="col-md-4 align-self-center">
-                      <div class="imgbox-img">
-                        <img src="assets/images/icon/highlight-product-3.png" class="img-fluid">
-                      </div>
-                    </div>
-                    <div class="col-md-8">
-                      <div class="imgbox-content">
-                        <h2><a href="https://truevalue.marutiseva.com/" target="_blank">Used / Preowned Cars Sell and Buy</a></h2>
-                        <p>Seva Maruti Suzuki True Value, an online trading portal for pre-owned and used cars</p>
-                        <div class="wrap-btn">
-                            <a href="https://truevalue.marutiseva.com/" class="flat-button btn-radius v2">VIEW MORE</a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-    </div>
-</section> -->
-  
-
-
-
   <section id="ts-feature" class="custom-block-3 white-bg page-section-pb">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12">
           <div class="title">
-            <h1>about Seva</h1>
+            <h1>About Seva Automotive</h1>
           </div>
           <div class="content ">
-            <h2 class="text-red">10</h2>
-            <strong>Everything you need to build an amazing dealership automotive responsive website. </strong>
-            <p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+             
+            <p class="text-justify">Seva Automotive is an authorized multi-location Maruti Suzuki dealership since 1985. Headquartered in Nashik, Seva Automotive family has marked its presence in Nashik, Nagpur, Nanded, Dhule, Wardha & Nandurbar. It also has its presence in rural areas like Igatpuri, Yeola, Hinganghat, Ramtek, Katol with overall 11 Arena Showrooms (including 2 E-outlets and 5 R-Outlets), 3 Nexa Showrooms, 4 Commercial Showrooms, 2 True Value Outlets, 13 Workshops in Maharashtra. </p>
+            <p>
+              We're a full service, state-of-the-art Maruti Suzuki dealership who strives to provide high-quality service, amenities, & experience. With Seva Automotive you are one step closer to owning your dream car. Our goal is to provide our customers with quality cars they can drive right off our showroom floor. 
+            </p>
           </div>
-          <div class="row no-gutters">
-            <div class="col-md-4 col-4">
-              <div class="feature-box-3">
-                <div class="icon"> <img src="assets/images/icon/special-coupons.svg"/> </div>
-                <div class="content">
-                  <h6>Special Coupons  & Offers</h6>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-4">
-              <div class="feature-box-3">
-                <div class="icon"> <img src="assets/images/icon/Personalised.svg"/> </div>
-                <div class="content">
-                  <h6>Personalised accounts</h6>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-4">
-              <div class="feature-box-3">
-                <div class="icon"> <img src="assets/images/icon/instant-repair.svg"/> </div>
-                <div class="content">
-                  <h6>Instant repair cost estimates</h6>
-                </div>
-              </div>
-            </div>
-          </div>
+         
         </div>
         <div class="col-md-6">
           <div class="overimg-layout"> <img src="assets/images/icon/head-office.jpeg" class="img-fluid"/> </div>
@@ -512,161 +415,6 @@ $title="Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur | SEVA";
       </div>
     </div>
   </section>
-  
-  <!-- <section id="ts-feature" class="ts-feature pb-0">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <h2 class="section-title"> <span>Why</span> Choose Us </h2>
-        </div>
-       
-      </div>
-     
-      <div class="row">
-        <div class="col-lg-8 col-md-12">
-          <div class="row">
-            <div class="col-md-6">
-              <div class="ts-feature-wrapper">
-                <div class="feature-single"> <span class="feature-icon"> <img src="assets/images/icon/Mechanics.svg" width="55"/> </span>
-                  <div class="feature-content">
-                    <h3><span>Expert</span> Mechanics</h3>
-                    <p>Most of the vehicles get damaged just because of maintenance neglect you take</p>
-                  </div>
-                
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="ts-feature-wrapper">
-                <div class="feature-single"> <span class="feature-icon"> <img src="assets/images/icon/Price.svg" width="55"/> </span>
-                  <div class="feature-content">
-                    <h3><span>Reasonable</span> Price</h3>
-                    <p>Most of the vehicles get damaged just because of maintenance neglect you take</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-           
-          </div>
-          <div class="gap-35"></div>
-          <div class="row">
-            <div class="col-md-6">
-              <div class="ts-feature-wrapper">
-                <div class="feature-single"> <span class="feature-icon"> <img src="assets/images/icon/Trusted.svg" width="55"/> </span>
-                  <div class="feature-content">
-                    <h3><span>Trusted</span> by 5000 Clients</h3>
-                    <p>Most of the vehicles get damaged just because of maintenance neglect you take</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="ts-feature-wrapper">
-                <div class="feature-single"> <span class="feature-icon"> <img src="assets/images/icon/Fast.svg" width="55"/> </span>
-                  <div class="feature-content">
-                    <h3><span>Fast</span> feature Delivery</h3>
-                    <p>Most of the vehicles get damaged just because of maintenance neglect you take</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-           
-          </div>
-        </div>
-       
-      </div>
-    </div>
-    <div class="feature-img"> <img class="img-fluid" src="assets/images/workshop/Wardha-hinganghat.png" alt=""> </div>
-  </section> --> 
-  
-  
-  <section id="ts-newsletter" class="ts-newsletter">
-    <div class="container-fluid no-padding">
-      <div class="row">
-        <div class="col-md-6 align-self-center">
-          <div class="box-skew-area-left bg-blue">
-            <div class="box-skew-sm-left footer-newletter">
-              <h2 class="column-title text-white"> <span>Subscribe</span> For Newsletter </h2>
-              <form method="post" action="get_updates.php" style="max-width: 320px;">
-                <div class="newsletter-form input-group">
-                  <input type="text" placeholder="Enter Email Address" name="email_id" class="col-10"  required="true" pattern="^([\w\-\.]+)@((\[([0-9]{1,3}\.){3}[0-9]{1,3}\])|(([\w\-]+\.)+)([a-zA-Z]{2,4}))$">
-                  <div class="input-group-append">
-                    <button name="submit"><i class="mdi mdi-chevron-right"></i></button>
-                  </div>
-                  <div id="element"></div>
-                </div>
-              </form>
-              <!-- END copy section:Service Contact Form --> 
-            </div>
-            <!-- Newsletter Content end --> 
-          </div>
-          <!-- Newsletter Left end --> 
-        </div>
-        <!-- Col End -->
-        <div class="col-md-6">
-          <div class="box-skew-area-right">
-            <div class="box-skew-sm-right"> <img src="assets/images/nashik.jpg" alt="">
-              <h2 class="column-title text-white no-border"> <small>We offer you</small> <span>The</span> Best Auto Repair Service </h2>
-              <div class="text-left"> <a href="enquiry.php" class="button button-purple button-180 btn-lg triggerBookAShowRoomVisitButton">Enquire Now</a> <a href="schedule-services.php"  class="button button-red button-180 btn-lg bookAServiceAppointmentButton" onClick="window.location.href='/service'">Book a service</a> </div>
-            </div>
-            <!-- Newsletter content end --> 
-          </div>
-          <!-- Newsletter right end --> 
-        </div>
-      </div>
-      <!-- Row End --> 
-    </div>
-    <!-- Container fluid end --> 
-  </section>
-  <div class="container-fluid">
-    <div class="row"> 
-      
-      <!-- <div class="festival-offers">
-   <div id="carousel-example-latOff" class="carousel slide carousel-fade desktop-view" data-ride="carousel"> 
-		  <ol class="carousel-indicators">
-			<li data-target="#carousel-example-latOff" data-slide-to="0" class="active"></li>
-			<li data-target="#carousel-example-latOff" data-slide-to="1"></li>
-		  </ol>
-		  <div class="carousel-inner" role="listbox"> 
-			<div class="carousel-item active">
-			<a href="#">
-			<picture>
-		  	  <source srcset="assets/images/safetybanner.webp" type="image/webp"  media="(min-width: 992px)">
-		  	  <source srcset="assets/images/safetybanner-ipad.webp" type="image/webp"  media="(min-width: 768px)">
-		  	  <source srcset="assets/images/safetybanner-ipad.webp" type="image/webp"  media="(min-width: 320px)">
-			  <source srcset="assets/images/safetybanner.jpg" alt="Alto Banner" media="(min-width: 992px)">
-			  <source srcset="assets/images/safetybanner-ipad.jpg" media="(min-width: 768px)">
-			  <source srcset="assets/images/safetybanner-ipad.jpg" alt="Safety" media="(min-width: 320px)">
-			<img src="assets/images/safetybanner.jpg" class="resposive-img lazyload">				 
-		   </picture> 
-			</a> 
-			</div>
-			<div class="carousel-item">
-			<a href="#">
-			<picture>
-		  	  <source srcset="assets/images/safetybanner1.webp" type="image/webp"  media="(min-width: 992px)">
-		  	  <source srcset="assets/images/safetybanner1-ipad.webp" type="image/webp"  media="(min-width: 768px)">
-		  	  <source srcset="assets/images/safetybanner1-ipad.webp" type="image/webp"  media="(min-width: 320px)">
-			  <source srcset="assets/images/safetybanner1.jpg" alt="Alto Banner" media="(min-width: 992px)">
-			  <source srcset="assets/images/safetybanner1-ipad.jpg" media="(min-width: 768px)">
-			  <source srcset="assets/images/safetybanner1-ipad.jpg" alt="Safety" media="(min-width: 320px)">
-			<img src="assets/images/safetybanner1.jpg" class="resposive-img lazyload">				 
-		   </picture> 
-			</a>
-			</div>
-		  </div>
-		  <a class="carousel-control-prev" href="#carousel-example-latOff" role="button" data-slide="prev"> 
-		  <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> 
-		  </a> 
-		  <a class="carousel-control-next" href="#carousel-example-latOff" role="button" data-slide="next">
-		  <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> 
-		  </a> 
-		</div>
-  
-  </div> --> 
-      
-    </div>
-  </div>
   <div class="container feature-car mt-5">
     <div class="section-title mb-2">
       <h2>Our Values</h2>

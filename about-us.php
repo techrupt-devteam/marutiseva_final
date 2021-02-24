@@ -22,24 +22,71 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
          <div class="col-md-12">
            <div class="section-title mb-4">
               <span>Welcome to the Seva</span>
-              <h2>About Seva </h2>
+              <h2>About Us</h2>
               <div class="separator"></div>
            </div>
          </div>
         </div>
         <div class="row">
+            <h2 class="subtitle">History </h2>
             <div class="col-md-12 text-justify">
-                <p>Seva Automotive was founded in 1985 and headquartered in Dwarka, Nashik. We entered the Indian automotive industry at a revolutionary time that was spearheaded by Maruti, especially after the launch of the iconic Maruti 800 in 1983. As it quickly became a customer favourite, we grew with it and were able to expand and open new facilities. In 1990, we shifted base to Ambad and opened one more facility in Nanded.</p>
+                <p>Seva Automotive Pvt Ltd (SAPL) -an authorized dealers of Maruti Suzuki India Ltd was founded in 1985 and headquartered in Dwarka, Nashik. </p>
   
-                <p>In keeping with the times and ever-evolving automotive industry, the infrastructure at the sprawling 44,000 square feet Seva Nashik facility is state of the art, to facilitate excellence in the 3s - Sales, Service and Spares. Encouraged by the overwhelming response of our customers, we were able to quickly expand our reach to Nagpur in 1993, Dhule in 2004 and Nandurbar in 2009. We have now steadily grown to six showrooms across Maharashtra and countless workshops and R-Outlets.</p>
+                <p>We entered the Indian automotive industry at a revolutionary time that was spearheaded by Maruti, especially after the launch of the iconic Maruti 800 in 1983. We grew with it and were able to expand and open new facilities. In 1990, we shifted base to Ambad and opened one more facility in Nanded.</p>
 
-                <p>At Seva, the growth and happiness of our internal workforce is as important to us as customer service and satisfaction. By focusing our resources on creating a healthy work environment and inculcating the importance of excellent customer service in every employee, we have been able to create a loyal customer base.</p>    
+                <p>In keeping with the times and ever-evolving automotive industry, the infrastructure at the sprawling 44,000 square feet Seva Nashik facility is state -of-the-art, to facilitate excellence in the 3s - Sales, Service and Spares. Encouraged by the overwhelming response of our customers, we were able to quickly expand our reach to Nagpur in 1993, Dhule in 2004 and Nandurbar in 2009. With our strong presence in the state of Maharashtra with overall 11 Arena Showrooms (including 2 E-outlets and 5 R-Outlets), 3 Nexa Showrooms, 4 Commercial Showrooms, 2 True Value Outlets, 13 Workshops, we are future ready to create new benchmarks in customer delight.</p>    
             </div>
         </div>
+
+        <div class="row">
+            <h2 class="subtitle">What we do ? </h2>
+            <div class="col-md-12 text-justify">
+                <p>
+                    At Seva Automotive, we are fulfilling the dreams of people. The dream of buying a brand-new Maruti Suzuki ARENA car. Be it a Hatchback, Sedan, SUV, MPV, or a Van, you ask for it and we will give it to you. We deal in sales and services for Maruti Suzuki ARENA S-Presso, Alto, Vitara Brezza, Celerio X, Celerio, WagonR, Swift, Dzire, Eeco, and Ertiga. We are here to make your long-cherished dream of owning a car a reality. We leave no stone unturned to ensure that the experience of buying or servicing a car is truly memorable and special. Our passionate and trained workforce supported by state-of-the-art technology and facilities is committed to make you feel comfortable at all times. 
+                </p>
+  
+               
+            </div>
+        </div>
+
+         <div class="row">
+            <h2 class="subtitle">How do we do it? </h2>
+            <div class="col-md-12 text-justify">
+                <p class="text-justify">
+                   At Seva Automotive we work relentlessly in pursuit of a common goal - to bring joy to you, and touch your life in a positive way. Our endeavor has been to deliver tailor-made services at your convenience.
+                </p>
+                <p>
+                    Your car purchase can be covered with a finance solution that is ideal as it will give you the flexibility of easy EMIs and convenience of a down payment deals. We have a partnership with the leading banks to bring the best of finance solutions to you. We will help you in choosing the financer as well as getting the loan disbursed. To address the insurance needs of your car, we provide insurance with Maruti Insurance Broking, an IRDA certified company. You get the advantage of near cashless quality repairing, easy settlement of the claim, and seamless service. Our customer service personnel ensure that all your queries are appropriately answered and our technical staff is qualified and up to date with the latest automobile technology advancements.</p>
+
+                    <p>You are always in the driver's seat when you buy a car with Seva Automotive. Our website has multiple features for you explore your dream car at the comfort of your home. You can book a  <a href="#">Test Drive</a> and take a hands-on driving experience, <a href="#"> get a quote</a> to know the on-road & ex-showroom price, download the brochure of the product to know the specifications.
+                </p>
+                <p class="text-justify">
+                    
+                </p>
+               
+            </div>
+        </div>
+
+        <div class="row">
+            <h2 class="subtitle">The Maruti Suzuki ARENA cars at Seva Automotive </h2>
+            <div class="col-md-12 text-justify">
+                <p class="text-justify">
+                   Your search for the best Hatchback, Sedan, SUV, or MPV ends at Seva Automotive. Our display area flaunts all the Maruti Suzuki ARENA cars. In the hatchback segment you have Alto, Celerio, Celerio X, WagonR, and Swift. While Alto is the probably the best budget-friendly compact hatchback, Swift is a dominating premium hatchback. For the budget-dwellers looking for more of comfort and performance, WagonR is a great option to look at. In the sedan segment, we currently have Dzire. It is one of the most successful cars in the compact-sedan segment. With its unique style and advanced features, Ertiga is considered as the best-selling MPV in the country. Vitara Brezza is a powerful and safe SUV while S-Presso is here to dawn the starting of a new-era in the mini-SUV segment. Lastly, Eeco is multi-utility van. It is a reliable commercial vehicle, ideal for family-trips, and is widely being used as an ambulance as well. Apart from the petrol variants, Maruti Suzuki ARENA cars also have CNG options which are a part of the S-CNG range. Currently, Alto, Ertiga, Eeco, Celerio, and WagonR come in S-CNG. 
+                </p>
+                <p>
+                    So, what are you waiting for? Visit nearest Seva Automotive Showrooms and be the proud owner of your dream Maruti Suzuki ARENA car.</p>
+
+                </p>
+                
+            </div>
+        </div>
+
+
+
        </div>
 </section>
 
-<section class="budget_feaute_area mt-5">
+<!-- <section class="budget_feaute_area mt-5">
     <div class="container">
         <div class="row b_feature_inner">
             <div class="col-lg-3 col-sm-6 col-6">
@@ -80,7 +127,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <div class="container mt-5">
     <div class="row">
@@ -89,9 +136,12 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                 <table class="w-100" cellpadding="5px" cellspacing="5px">
                     <thead>
                         <tr>
-                            <th class="" style="width: 250px;">Total Showroom</th>
-                            <th class="">Total Workshop</th>
+                            <th class="" style="width: 250px;">Arena Showrooms</th>
                             <th class="">R-Outlet</th>
+                            <th class="">Nexa Showrooms</th>
+                            <th class="">Commercial Showrooms</th>
+                            <th class="">True Value Showrooms</th>
+                            <th class="">Workshop</th>
                             <th class="">MDS</th>
                         </tr>
                     </thead>
