@@ -2475,7 +2475,7 @@ padding: .675rem .75rem;
 }
 .location-table table thead th, td {
 	padding: 10px;
-	border: 1px solid #b3b3b3;
+	border: 1px solid #e8e8e8;
 }
 .location-table table thead th {
     background-color: #303197;
@@ -2488,26 +2488,19 @@ padding: .675rem .75rem;
 .location-table table thead th:nth-child(4){
 	border-top-right-radius: 6px;
 }
-.location-table td:nth-child(1) {
-    background-color: #aaa;
-}
-.location-table td:nth-child(2) {
-    background-color: #c1c1c1;
-}
-.location-table td:nth-child(3) {
-    background-color: #d7d7d7;
-}
-.location-table td{
-	background-color: #e8e8e8;
-}
 .location-table ul li {
-    list-style: disc;
-    padding-left: 8px;
-    margin-left: 40px;
+   
 }
 .location-table td h1 {
-    font-size: 24px;
-    color: #303197;
+	font-size: 22px;
+	color: #303197;
+	font-weight: 400;
+}
+.feature-car .subtitle {
+    font-size: 18px;
+    margin-left: 15px;
+    text-transform: uppercase;
+    color: #2f3194;
 }
 .auto_market_area.p_100 {
     background-image: url(../images/icon/wrapper-section-01.png);
@@ -3029,6 +3022,11 @@ background-color:#000;
 }
 .website_intro .welcomesect .martuiLogo {
 	width:60%
+}
+.location-table ul.row {
+    padding: 0px;
+    list-style: none;
+    margin: 0px;
 }
 #mask {
 	position:absolute;
@@ -6682,6 +6680,8 @@ header {
 	background-image: url("../images/icon/br_down.webp");
 	background-position: 130px 14px;
 	background-repeat: no-repeat;
+	left: 96px;
+	top: 25px;
 }
 .language-select:focus{
 	outline: none;

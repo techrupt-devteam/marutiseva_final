@@ -8,6 +8,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
  include 'header.php'; 
 ?>
 
+</style>
 <main>
 <div class="container-fluid">
 <div class="row">
@@ -136,11 +137,11 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                 <table class="w-100" cellpadding="5px" cellspacing="5px">
                     <thead>
                         <tr>
-                            <th class="" style="width: 250px;">Arena Showrooms</th>
+                            <th class="" style="width: 190px;">Arena Showrooms</th>
                             <th class="">R-Outlet</th>
-                            <th class="">Nexa Showrooms</th>
-                            <th class="">Commercial Showrooms</th>
-                            <th class="">True Value Showrooms</th>
+                            <th class="">Nexa </th>
+                            <th class="">Commercial </th>
+                            <th class="">True Value </th>
                             <th class="">Workshop</th>
                             <th class="">MDS</th>
                         </tr>
@@ -154,6 +155,23 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                             </td>
                             <td>
                                 <ul class="row">
+                                    <li class="col-sm-12"> Igatpuri </li>
+                                    <li class="col-sm-12"> Yeola </li>
+                                </ul>
+                            </td>
+                            <td>
+                                <ul class="row">
+                                    <li class="col-sm-12"> Gangapur Road </li>
+                                </ul>
+                            </td>
+                            <td>
+
+                            </td>
+                            <td>
+                                Vilholi
+                            </td>
+                            <td>
+                                <ul class="row">
                                     <li class="col-sm-12"> Ambad</li>
                                     <li class="col-sm-12"> Satpur</li>
                                     <li class="col-sm-12"> Mhasrul</li>
@@ -162,14 +180,9 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                 </ul>
                             </td>
                             <td>
-                                <ul class="row">
-                                    <li class="col-sm-12"> Igatpuri</li>
-                                    <li class="col-sm-12"> Yeola</li>
-                                </ul>
+
                             </td>
-                            <td>
-                                Gangapur Road
-                            </td>
+                        </td>
                         </tr>
 
                         <tr>
@@ -179,21 +192,35 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                </h1> 
                             </td>
                             <td>
-                                <ul class="row">
-                                    <li class="col-sm-12">Amravti Road</li>
-                                    <li class="col-sm-12">Hingna</li>
-                                    <li class="col-sm-12">Manewada</li>
-                                </ul>
+                             <ul class="row">
+                                <li class="col-sm-12"> Katol</li>
+                                <li class="col-sm-12"> Ramktek</li>
+                             </ul>
                             </td>
                             <td>
                                 <ul class="row">
-                                    <li class="col-sm-12">Katol</li>
-                                    <li class="col-sm-12">Ramtek</li>
+                                    <li class="col-sm-12">Kingsway</li>
                                 </ul>
                             </td>
+                            
                             <td>
-                                
+                                Central MIDC
                             </td>
+
+                            <td>
+                                Central MIDC
+                            </td>
+                            <td>
+                                <ul class="row">
+                                    <li class="col-sm-12"> Amravti Road</li>
+                                    <li class="col-sm-12"> Hingna</li>
+                                    <li class="col-sm-12"> Manewada</li>
+                                 </ul>
+                            </td>
+                            <td>
+                                Manewada
+                            </td>
+
                         </tr>
 
                         <tr>
@@ -204,13 +231,16 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                             </td>
                             <td>
                                 <ul class="row">
-                                    <li class="col-sm-12">Gopuri Chowk (Nalwadi)</li>
+                                    <li class="col-sm-12">Hinganghat</li>
                                     <li class="col-sm-12">Hinganghat</li>
                                </ul>
                             </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                             <td>
                                 <ul class="row">
-                                    <li class="col-sm-12">Karannja</li>
+                                    <li class="col-sm-12">Gopuri Chowk (Nalwadi)</li>
                                     <li class="col-sm-12">Hinganghat</li>
                                 </ul>
                             </td>
@@ -225,15 +255,18 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                     Nanded
                                </h1> 
                             </td>
+                            <td></td>
+                            <td>
+                                <ul class="row">
+                                    <li class="col-sm-12">Airport Road</li>
+                                </ul>
+                            </td>
+                            <td></td>
+                            <td></td>
                             <td>
                                 <ul class="row">
                                     <li class="col-sm-12">Bafna Chock</li>
-                                </ul>
-                            </td>
-                            <td>
-                                <ul class="row">
-                                    <li class="col-sm-12">Degloor</li>
-                                    <li class="col-sm-12">Kinwat</li>
+                                    
                                 </ul>
                             </td>
                             <td>
@@ -247,17 +280,16 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                     Dhule
                                </h1> 
                             </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                             <td>
                                 <ul class="row">
                                     <li class="col-sm-12">Mumbai Agra Highway Avdhan</li>
                                 </ul>
                             </td>
-                            <td>
-                                <ul class="row">
-                                    <li class="col-sm-12">Shahada</li>
-                                    <li class="col-sm-12">Shirpur</li>
-                                </ul>
-                            </td>
+                            
                             <td>
                                
                             </td>
@@ -268,6 +300,10 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                     Nandurbar
                                </h1> 
                             </td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
                             <td>
                                 <ul class="row">
                                     <li class="col-sm-12">Karan Hotel (Choufuli)</li>
@@ -276,9 +312,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                             <td>
                                 
                             </td>
-                            <td>
-                               
-                            </td>
+                            
                         </tr>
                     </tbody>
                 </table>
