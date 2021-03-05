@@ -5407,6 +5407,9 @@ footer-banner .caption {
 	.header-angle::after{
 		display: none;
 	}
+	.logo {
+		width:60px;
+	}
 }
 @media only screen and (min-width: 960px) and (max-width: 1200px) {
 footer .mainlinks {
@@ -5421,9 +5424,9 @@ footer .podcast-section {
 	padding:0 1rem
 }
 .logo {
-	width:100px;
-	margin: 0 auto;
-	position:static
+	width:80px;
+	/* margin: 0 auto;
+	position:static */
 }
 .logo img {
 	width:100%
