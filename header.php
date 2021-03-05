@@ -41,14 +41,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
   <div class="top-bar-angle">
     <div class="container">
       <div class="row">
-        <div class="col-lg-4 col-md-4  d-none d-md-block">
+        <div class="col-lg-4 col-md-3 d-none d-md-block">
           <select class="language-select">
             <option value="English" style="background-image:url(images/volvo.png);">English</option>
             <option value="marathi"  style="background-image:url(images/saab.png);">मराठी</option>
         </select>
-        
         </div>
-        <div class="col-lg-5 col-md-5 col-12 pr-0">
+        <div class="col-lg-5 col-md-6 col-12 pr-0">
           <div class="top-bar-event ts-top text-md-right text-center">
             <ul class="list-inline">
               <li class="topbar_item topbar_item_type-contact_timing"> 
@@ -85,10 +84,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
 <div class="topbar d-none d-md-block">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-6 col-sm-6 align-self-center">
+      <div class="col-lg-6 col-sm-4 align-self-center">
         <div class="topbar-left text-left"> </div>
       </div>
-      <div class="col-lg-6 col-sm-6">
+      <div class="col-lg-6 col-sm-8">
         <div class="topbar-right text-right">
           <ul class="list-inline">
             <li> <a href="https://truevalue.marutiseva.com/" class="trueValuelogo"> <img src="assets/images/true-value.svg"/> </a> </li>
