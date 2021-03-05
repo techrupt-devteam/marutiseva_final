@@ -517,6 +517,9 @@ background-color: #b91417 color: #fff;
 .menu-mobile {
 	display: block;
 }
+.website_intro .other-sites a {
+    margin: 8px !important;
+}
 .menu-dropdown-icon:before {
 	display: block;
 }
@@ -6549,7 +6552,10 @@ header {
     position: relative;
 }
 .footer-top .footer-box-content {
-    padding-left: 25px;
+    padding-left: 8px;
+}
+.footer-box-content p {
+    font-size: 13px;
 }
 .footer-top [class*="col"]:nth-child(1)::after {
     content: "";
@@ -6607,7 +6613,7 @@ header {
 .footer-top .footer-box-content h3 {
     font-weight: 600;
     margin-bottom: 2px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .footer-top .footer-box i {
     font-size: 36px;

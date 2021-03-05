@@ -38,7 +38,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="row">
-            <div class="col-lg-2 col-md-3 col-6">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-6">
               <div class="mainlinks">
                 <ul>
                   <li><a href="#"> Hatchbacks</a>
@@ -60,7 +60,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-6">
               <div class="mainlinks">
                 <ul>
                   <li><a href="#">Sedans</a>
@@ -86,7 +86,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-3 col-md-3 col-6">
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
               <div class="mainlinks">
                 <!-- <h4> Value Added Services</h4> -->
                 <ul>
@@ -105,7 +105,7 @@
                 </ul>
               </div>
             </div>
-            <div class="col-lg-4 col-md-4">
+            <div class="col-xl-4 col-lg-3 col-md-6 col-6">
               <div class="mainlinks">
                 <h4> Subscribe us </h4>
                  <ul class="footer-newletter">
@@ -139,10 +139,10 @@
   <div class="footer-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
-          <div>© 2020 Seva Automotive | Design by <a href="#" target="_blank">Techrupt</a></div>
+        <div class="col-md-7">
+          <div>© 2020 Seva Automotive | Design by <a href="#" target="_blank"> Techrupt</a></div>
         </div>
-        <div class="col-md-4 col-6 text-md-right mx-auto">
+        <div class="col-md-5 col-6 text-md-right mx-auto">
           <ul class="feed-terms">
               <li><a href="feedback.php">Feedback</a></li>
               <li><a href="disclaimer.php">Terms & Conditions</a></li>
