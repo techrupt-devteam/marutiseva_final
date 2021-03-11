@@ -25,72 +25,7 @@ $title="SEVA Expert | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
 <main>
   <div class="container feature-car">
     <div class="my-5">
-      <!-- <div class="row">
-        <div class="col-md-10 mx-auto">
-          <div class="mu-team-content">
-            <div class="row"> 
-              
-              <div class="col-md-3">
-                <div class="mu-single-team">
-                  <div class="mu-single-team-img"> <img src="assets/images/rajesh-kamod.jpg" alt="img"> </div>
-                  <div class="mu-single-team-content">
-                    <h3>Rajesh Kamod</h3>
-                    <span>CEO ,Seva Nashik Ambad</span> 
-                  </div>
-                </div>
-              </div>
-              
-              
-              <div class="col-md-3">
-                <div class="mu-single-team">
-                  <div class="mu-single-team-img"> <img src="assets/images/vishal-khinwasra.jpg" alt="img"> </div>
-                  <div class="mu-single-team-content">
-                    <h3>Vishal Khinwasra </h3>
-                    <span>Branch Manager Seva Nanded</span>
-                    <p>Mob No:- 9960611723</p>
-                  </div>
-                </div>
-              </div>
-              
-              
-              <div class="col-md-3">
-                <div class="mu-single-team">
-                  <div class="mu-single-team-img"> <img src="assets/images/nitin-gundecha.jpg" alt="img"> </div>
-                  <div class="mu-single-team-content">
-                    <h3>Nitin Gundecha</h3>
-                    <span>Branch Manager Seva Nagpur</span>
-                    <p>Mob No:- 9689871099</p>
-                  </div>
-                </div>
-              </div>
-              
-              
-              <div class="col-md-3">
-                <div class="mu-single-team">
-                  <div class="mu-single-team-img"> <img src="assets/images/team-blank.jpg" alt="img"> </div>
-                  <div class="mu-single-team-content">
-                    <h3>Mr.Karan Kedia </h3>
-                    <span>Branch Manager Seva Dhule</span> </div>
-                </div>
-              </div>
-              
-              
-              <div class="col-md-3">
-                <div class="mu-single-team">
-                  <div class="mu-single-team-img"> <img src="assets/images/durgesh-hatkar.jpg" alt="img"> </div>
-                  <div class="mu-single-team-content">
-                    <h3>Durgesh Hatkar</h3>
-                    <span>Branch Manager Seva Nashik</span>
-                    <span class="d-block">Mob No:- 97303 00163</span>
-                    <p>Mob No:- 97303 00163</p>
-                  </div>
-                </div>
-              </div>
-              
-            </div>
-          </div>
-        </div>
-      </div> -->
+     
       <div class="row">
         <div class="col-md-12">
           <div class="section-title mb-4">
@@ -103,15 +38,32 @@ $title="SEVA Expert | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
       <div class="row pb-5">
         <div class="col-md-12">
           <div class="mu-team-content">
-            <div class="row">
-              <div class="col-md-4 display-table">
+            <div class="row">   <!-- display-table -->
+              <div class="col-lg-4 col-md-6 offset-lg-2">
                 <div class="mu-single-team">
-                  <div class="mu-single-team-img"><img alt="img" src="assets/images/icon/ceo.jpg" class="rounded-circle"></div>
-                  <div class="mu-single-team-content">
+                  <div class="mu-single-team-img">
+                    <!-- <img alt="img" src="assets/images/icon/ceo.jpg" class="rounded-circle"> -->
                     <h3>Rajesh Kamod</h3>
-                    <span>CEO , Seva Nashik Ambad</span>
+                    <span>C.E.O , Seva Nashik Ambad</span>
+                  </div>
+                  <div class="mu-single-team-content">
+                   
                     <span class="d-block">Mob No:- 9960826000</span>
-                    <p>E-Mail: <a href="mailto:coo@marutiseva.com">coo@marutiseva.com</a></p>
+                    <p>E-Mail: <a href="mailto:seva.nsk.bm1@marutidealers.com">seva.nsk.bm1@marutidealers.com</a></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                <div class="mu-single-team">
+                  <div class="mu-single-team-img">
+                    <!-- <img alt="img" src="assets/images/icon/ceo.jpg" class="rounded-circle"> -->
+                    <h3>Nitin Gundecha</h3>
+                    <span>C.E.O , Seva Nagpur</span>
+                  </div>
+                  <div class="mu-single-team-content">
+                   
+                    <span class="d-block">Mob No:- 9689871099</span>
+                    <p>E-Mail: <a href="mailto:seva.ngp.bm1@marutidealers.com">seva.ngp.bm1@marutidealers.com</a></p>
                   </div>
                 </div>
               </div>
@@ -120,24 +72,28 @@ $title="SEVA Expert | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
               <div class="col-md-6 order-2 order-3 order-md-1">
                 <div class="col-md-12 col-lg-8 float-right">
                   <div class="mu-single-team">
-                    <div class="mu-single-team-img"><img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"></div>
-                    <div class="mu-single-team-content">
+                    <div class="mu-single-team-img">
+                      <!-- <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"> -->
                       <h3>Durgesh Hatkar</h3>
                       <span>Branch Manager, Nashik Ambad</span>
-                      <span class="d-block">Mob No:- 97303 00163</span>
-                      <p>E-Mail: <a href="mailto:bm@marutiseva.com">bm@marutiseva.com</a></p>
+                    </div>
+                    <div class="mu-single-team-content">
+                      <span class="d-block">Mob No:- 9730300163</span>
+                      <p>E-Mail: <a href="mailto:seva.gm@marutidealers.com">seva.gm@marutidealers.com</a></p>
                     </div>
                   </div>
                 </div>
                 <div class="clearfix"></div>
                 <div class="col-md-12 col-lg-8 float-right">
                   <div class="mu-single-team">
-                    <div class="mu-single-team-img"><img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"></div>
+                    <div class="mu-single-team-img">
+                      <!-- <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"> -->
+                      <h3>Karan Kedia</h3>
+                      <span>Branch Manager , Dhule</span>
+                    </div>
                     <div class="mu-single-team-content">
-                      <h3>Vishal Khinwasra</h3>
-                      <span>Branch Manager Seva Nanded</span>
-                      <span class="d-block"> Mob No:- 9960611723</span>
-                      <p>E-Mail: <a href="mailto:bm@marutiseva.com">bm@marutiseva.com</a></p>
+                      <span class="d-block"> Mob No:- 9960090614</span>
+                      <p>E-Mail: <a href="mailto:seva.dhl.gm1@marutidealers.com">seva.dhl.gm1@marutidealers.com</a></p>
                     </div>
                   </div>
                 </div>
@@ -148,12 +104,13 @@ $title="SEVA Expert | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                 <div class="col-md-12 col-lg-8">
                   <div class="mu-single-team">
                     <div class="mu-single-team-img">
-                      <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"></div>
+                      <!-- <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"> -->
+                      <h3>Pawan Madne</h3>
+                      <span>Branch Manager , Wardha</span>
+                    </div>
                     <div class="mu-single-team-content">
-                      <h3>Nitin Gundecha</h3>
-                      <span>Branch Manager Seva Nagpur</span>
-                      <span class="d-block">Mob No:-  9689871099</span>
-                      <p>E-Mail: <a href="mailto:gmservice@marutiseva.com">gmservice@marutiseva.com</a></p>
+                      <span class="d-block">Mob No:-  7720009444</span>
+                      <p>E-Mail: <a href="mailto:seva.wad.bm1@marutidealers.com">seva.wad.bm1@marutidealers.com</a></p>
                     </div>
                   </div>
                 </div>
@@ -161,13 +118,13 @@ $title="SEVA Expert | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                 <div class="col-md-12 col-lg-8">
                   <div class="mu-single-team">
                     <div class="mu-single-team-img">
-                      <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle">
+                      <!-- <img alt="img" src="assets/images/icon/branch-anager.jpeg" class="rounded-circle"> -->
+                      <h3>Vishal Khinwasra </h3>
+                      <span>Branch Manager Nanded</span>
                     </div>
                     <div class="mu-single-team-content">
-                      <h3>Mr.Karan Kedia </h3>
-                      <span>Branch Manager Seva Dhule</span>
-                      
-                      <p>E-Mail: <a href="mailto:asm@marutiseva.com">asm@marutiseva.com</a></p>
+                      <span class="d-block">Mob No:-  9960611723</span>
+                      <p>E-Mail: <a href="mailto:seva.nnd.gm1@marutidealers.com">seva.nnd.gm1@marutidealers.com</a></p>
                     </div>
                   </div>
                 </div>

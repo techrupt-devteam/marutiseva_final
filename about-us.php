@@ -87,48 +87,6 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
        </div>
 </section>
 
-<!-- <section class="budget_feaute_area mt-5">
-    <div class="container">
-        <div class="row b_feature_inner">
-            <div class="col-lg-3 col-sm-6 col-6">
-                <div class="b_f_item wow  fadeInLeft animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                    <div class="icon">
-                        <i class="fa fa-truck"></i>
-                    </div>
-                    <a href="#"><h4>Free Shipping</h4></a>
-                    <p>Lorem ipsum dolor sit amet after consectetur adipisicing</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-6">
-                <div class="b_f_item wow  fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
-                    <div class="icon">
-                        <i class="fa fa-wrench"></i>
-                    </div>
-                    <a href="#"><h4>3 Free Servicing</h4></a>
-                    <p>Lorem ipsum dolor sit amet after consectetur adipisicing</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-6">
-                <div class="b_f_item wow  fadeInLeft animated" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
-                    <div class="icon">
-                        <i class="fa fa-headphones"></i>
-                    </div>
-                    <a href="#"><h4>24/7 Help Center</h4></a>
-                    <p>Lorem ipsum dolor sit amet after consectetur adipisicing</p>
-                </div>
-            </div>
-            <div class="col-lg-3 col-sm-6 col-6">
-                <div class="b_f_item wow  fadeInLeft animated" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInLeft;">
-                    <div class="icon">
-                        <i class="fa fa-gift"></i>
-                    </div>
-                    <a href="#"><h4>Sure Gift Packs</h4></a>
-                    <p>Lorem ipsum dolor sit amet after consectetur adipisicing</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <div class="container mt-5">
     <div class="row">
@@ -137,13 +95,13 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                 <table class="w-100" cellpadding="5px" cellspacing="5px">
                     <thead>
                         <tr>
-                            <th class="" style="width: 190px;">Arena Showrooms</th>
-                            <th class="">R-Outlet</th>
-                            <th class="">Nexa </th>
-                            <th class="">Commercial </th>
-                            <th class="">True Value </th>
-                            <th class="">Workshop</th>
-                            <th class="">MDS</th>
+                            <th class="col-sm-2">Arena</th>
+                            <th class="col-sm-2">R-Outlet</th>
+                            <th class="col-sm-2">Nexa </th>
+                            <th class="col-sm-2">Commercial </th>
+                            <th class="col-sm-2">True Value </th>
+                            <th class="col-sm-2">Workshop</th>
+                            <th class="col-sm-2">MDS</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -165,7 +123,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                 </ul>
                             </td>
                             <td>
-
+                                <label>Pathardi Phata</label>
                             </td>
                             <td>
                                 Vilholi
@@ -188,7 +146,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                         <tr>
                             <td>
                                <h1>
-                                    Nagpur
+                                Nagpur
                                </h1> 
                             </td>
                             <td>
@@ -232,7 +190,6 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                             <td>
                                 <ul class="row">
                                     <li class="col-sm-12">Hinganghat</li>
-                                    <li class="col-sm-12">Hinganghat</li>
                                </ul>
                             </td>
                             <td></td>
@@ -252,7 +209,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                         <tr>
                             <td>
                                <h1>
-                                    Nanded
+                                 Nanded
                                </h1> 
                             </td>
                             <td></td>
@@ -261,11 +218,13 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                                     <li class="col-sm-12">Airport Road</li>
                                 </ul>
                             </td>
-                            <td></td>
+                            <td>
+                                <label>Vasant Nagar</label>
+                            </td>
                             <td></td>
                             <td>
                                 <ul class="row">
-                                    <li class="col-sm-12">Bafna Chock</li>
+                                    <li class="col-sm-12">Bafna Chowk</li>
                                     
                                 </ul>
                             </td>
@@ -277,12 +236,12 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                         <tr>
                             <td>
                                <h1>
-                                    Dhule
+                                Dhule
                                </h1> 
                             </td>
                             <td></td>
                             <td></td>
-                            <td></td>
+                            <td><label>Nr. Railway Crossing</label></td>
                             <td></td>
                             <td>
                                 <ul class="row">
@@ -297,7 +256,7 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
                         <tr>
                             <td>
                                <h1>
-                                    Nandurbar
+                                Nandurbar
                                </h1> 
                             </td>
                             <td></td>
@@ -324,84 +283,24 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
 <section class="auto_market_area p_100">
     <div class="container">
         <div class="row market_inner">
-            <div class="col-lg-6">
-                <div class="market_text">
-                    <h3><img src="img/icon/flag-2.png" alt="">Largest <span>Automotive</span> Marketplace.</h3>
-                    <ul class="nav nav-tabs" id="myTab" role="tablist">
-                        <li class="nav-item">
-                            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="false">Our Mission</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Our Vision</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link " id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">Our Goal</a>
-                        </li>
-                    </ul>
-                    <div class="tab-content text-justify" id="myTabContent">
-                        <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab">
-                            <p>Seva Automotive was founded in 1985 and headquartered in Dwarka, Nashik. We entered the Indian automotive industry at a revolutionary time that was spearheaded by Maruti, especially after the launch of the iconic Maruti 800 in 1983. As it quickly became a customer favourite, we grew with it and were able to expand and open new facilities. In 1990, we shifted base to Ambad and opened one more facility in Nanded.</p>
-                            <div class="row no-gutters">
-                                <div class="col-sm-6 col-6">
-                                    <div class="media bg-white m-2 p-2">
-                                        <div class="d-flex">
-                                            <i class="fa fa-car"></i>
-                                        </div>
-                                        <div class="media-body ml-2 p-2">
-                                            <h4>Best Collection</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-6">
-                                    <div class="media bg-white m-2 p-2">
-                                        <div class="d-flex">
-                                            <i class="fa fa-inr"></i>
-                                        </div>
-                                        <div class="media-body ml-2 p-2">
-                                            <h4>Best Pricing</h4>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do them minim veniam, quis nostrud exercitation.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do them minim veniam, quis nostrud exercitation.</p>
-                        </div>
-                        <div class="tab-pane fade " id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do them minim veniam, quis nostrud exercitation.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do them minim veniam, quis nostrud exercitation.</p>
-                        </div>
-                    </div>
+             <div class="col-lg-6 align-self-center">
+                <div> 
+                    <h3 style="font-size: 45px;">
+                        Our Values
+                    </h3>
+                    <p style="font-size: 20px;">At “Seva” we adhere to the highest quality of consistent process to deliver our passion fo service & care to our customer through our “SPEED” </p>
                 </div>
+             </div>
+            
+            <div class="col-md-4 offset-lg-1">
+                <p>
+                    <img src="assets/images/Quality-Policy.jpeg" class="img-fluid" style="box-shadow: 2px 5px 10px #1e1e1e75;border-radius: 8px;"/>
+                </p>
             </div>
-            <div class="col-lg-6">
-                <div class="market_image">
-                    <img class="img-fluid" src="assets/images/workshop/Wardha-hinganghat.png" alt="">
-                </div>
-            </div>
+        </div>
         </div>
     </div>
 </section>
-<!-- <div class="container">
-	<div class="row workshop Aligner">
-    <div class="col-sm-12 col-md-6 col-lg-6">
-    <h4>Workshops</h4>
-    <p>We realize that no one wants to get into an accident, however they still occur unfortunately. When you are involved in a car accident, you want to be covered. Our goal is protection, we want to help you get the right protection. If you’re shopping for auto insurance, price is important, but don’t be fooled by cut rate policies that leave you unprotected.</p>
-    </div>
-        <div class="col-sm-12 col-md-6 col-lg-6">
-        <img src="assets/images/workshop.jpg" class="resposive-img">
-</div>
-
-<div class="col-sm-12 col-md-12 col-lg-12 text-center">
-<img src="assets/images/about-seva-showrooms.jpg" class="resposive-img">
-</div> -->
-
-
-      
-      
         <div class="container feature-car">
             <div class="row">
              <div class="col-md-12">

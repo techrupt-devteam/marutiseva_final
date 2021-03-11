@@ -31,7 +31,7 @@ $title="Enquiry Car Quote | Maruti Suzuki Showroom in Nashik, Nagpur | SEVA";
         </div>
       </div>
     </div>
-    <div class="my-1">
+    <div class="my-1 mb-5">
       <div class="formsection mt-0">
         <form action="send_mail_enquiry.php" method="post" data-parsley-validate="parsley">
           <div class="row">

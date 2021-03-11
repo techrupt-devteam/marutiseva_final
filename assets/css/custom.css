@@ -1487,6 +1487,7 @@ a:hover {
     font-size: 28px;
     font-weight: 600;
     font-family: "Rajdhani",sans-serif;
+	text-transform: uppercase;
 }
 .page-title.v1 .overlay, .page-title.v3 .overlay {
     background: #000000;
@@ -2059,7 +2060,7 @@ a:hover {
 .mu-single-team-img {
 	width: 100%;
 	background: #eee;
-	min-height: 190px;
+	min-height: 170px;
 	text-align: center;
 	margin: 0 auto;
 }
@@ -2512,12 +2513,16 @@ padding: .675rem .75rem;
     color: #2f3194;
 }
 .auto_market_area.p_100 {
-    background-image: url(../images/icon/wrapper-section-01.png);
+    /* background-image: url(../images/icon/wrapper-section-01.png); */
     background-position: top left;
     background-repeat: no-repeat;
 	overflow: hidden;
-	background-color: #eee;
+	background-color: #eaeaea;
 	margin: 4rem 0px;
+}
+.mu-single-team-img h3 {
+    margin-top: 11%;
+	color: #2f3194;
 }
 .budget_feaute_area {
     background: url(../images/icon/b-feature-bg.jpg) no-repeat scroll center center;

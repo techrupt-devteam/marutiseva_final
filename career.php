@@ -28,112 +28,63 @@ $title="SEVA Automotive | Maruti Suzuki ARENA Car Showroom in Nashik, Nagpur";
   <section class="feature-car mt-5 pb-5 mb-5">
     <div id="page-content">
       <div class="container">
-        <div class="row">
-          <div class="col-sm-4 page-sidebar">
-            <aside>
-              <div class="white-container mb0">
-                <div class="widget sidebar-widget jobs-search-widget">
-                  <h5 class="widget-title">Search</h5>
-                  <div class="widget-content"> <span>I'm looking for a ...</span>
-                    <select class="form-control mt-1 mb-2">
-                      <option value="0">Job</option>
-                      <option value="">Category</option>
-                      <option value="">Category</option>
-                      <option value="">Category</option>
-                      <option value="">Category</option>
-                    </select>
-                    <span>in</span>
-                    <input type="text" class="form-control mt-1 mb-3" placeholder="Location">
-                      <button type="submit" name="submit" class="btn btn-primary">Search</button>
-                   </div>
-                </div>
-                <div class="widget sidebar-widget jobs-filter-widget">
-                  <h5 class="widget-title">Filter Results</h5>
-                  <div class="widget-content">
-                    <h6>By Region</h6>
-                    <div>
-                      <ul class="filter-list">
-                        <li> <a href="#">Nashik <span>(12)</span></a>
-                          <ul>
-                            <li><a href="#">Nagpur <span>(5)</span></a></li>
-                            <li><a href="#">Yeola <span>(1)</span></a></li>
-                          </ul>
-                        </li>
-                        <li><a href="#">Nagpur <span>(5)</span></a></li>
-                        <li><a href="#">Yeola <span>(1)</span></a></li>
-                      </ul>
-                    </div>
-                    <h6>By Type</h6>
-                    <div>
-                      <ul class="filter-list">
-                        <li><a href="#">Administration <span>(758)</span></a></li>
-                        <li><a href="#">Customer Service <span>(165)</span></a></li>
-                        <li><a href="#">Service/Training <span>(11)</span></a></li>
-                      </ul>
-                      <a href="#" class="toggle"></a> </div>
-                    <h6>Work Permit</h6>
-                    <div class="radio">
-                      <label style="color: #999;">
-                        <input type="radio">
-                        Full-Time</label>
-                    </div>
-                    <div class="radio">
-                      <label style="color: #999;">
-                        <input type="radio">
-                        Part-Time</label>
-                    </div>
-                    <div class="radio">
-                      <label style="color: #999;">
-                        <input type="radio">
-                        Freelance</label>
-                    </div>
-                   
-                  </div>
-                </div>
-              </div>
-            </aside>
-          </div>
-          <!-- end .page-sidebar -->
-          
-          <div class="col-sm-8 page-content">
-            <div class="title-lines">
-              <h3 class="mt0">Available Jobs</h3>
-            </div>
-            <div class="jobs-item with-thumb">
-              <div class="thumb"><img src="assets/images/icon/title-page.png" alt=""></div>
-              <div class="date">27 <span>Jun</span></div>
-              <h6 class="title"><a href="#">Service Advisor</a></h6>
-              <span class="meta">Ambad, Nashik</span>
-              <ul class="top-btns">
-                <a href="" class="btn btn-outline-primary btn-sm"  data-toggle="modal" data-target="#apply">Apply</a>
-              </ul>
-              <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, maxime, excepturi, mollitia, voluptatibus similique aliquid a dolores autem laudantium sapiente ad enim ipsa modi laborum accusantium deleniti neque architecto vitae. </p>
-            </div>
+       <div class="formsection mt-0"> 
+        <p class="text-danger my-3">* All fields are mandatory</p>
+        <form>
+        <div class="row mt-5">
+         <div class="form-group col-md-6">
+            <label>Full Name</label>
+            <input type="text" class="form-control" required placeholder="Name"/>
+         </div>
+         <div class="form-group col-md-6">
+          <label>Email ID</label>
+          <input type="email" class="form-control" required placeholder="Email"/>
+       </div>
+        <div class="form-group col-md-4">
+          <label>Contact Number</label>
+          <input type="text" class="form-control" required placeholder="+91 97XXXXXXX" maxlength="10" minlength="10"/>
+      </div>
+        <div class="form-group col-md-4">
+          <label>Position Applied For</label>
+          <select class="form-control">
+            <option>Web Designer</option>
+          </select>
+      </div>
+      <div class="form-group col-md-4">
+        <label>Preferred Location</label>
+          <select class="form-control">
+            <option>Nasik</option>
+          </select>
+      </div>
+      <div class="form-group col-md-4">
+        <label>Total Experience</label>
+        <input type="text" class="form-control" required placeholder="Year" maxlength="2" minlength="1"/>
+      </div>
+      <div class="form-group col-md-4">
+        <label>Qualification</label>
+        <select class="form-control">
+          <option value="">Select</option>
+            <option>Diploma</option>
+            <option>Graduate</option>
+            <option>Post Graduate</option>
+            <option>PHD</option>
+        </select>
+      </div>
 
-            <div class="jobs-item with-thumb">
-                <div class="thumb"><img src="assets/images/icon/seva-automotive-pvt-ltd-wadi-nagpur-car-dealers-jlrh.jpeg" alt=""></div>
-                <div class="date">27 <span>Jun</span></div>
-                <h6 class="title"><a href="#">Service Advisor</a></h6>
-                <span class="meta">Ambad, Nashik</span>
-                <ul class="top-btns">
-                  <a href="" class="btn btn-outline-primary btn-sm"  data-toggle="modal" data-target="#apply">Apply</a>
-                </ul>
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, maxime, excepturi, mollitia, voluptatibus similique aliquid a dolores autem laudantium sapiente ad enim ipsa modi laborum accusantium deleniti neque architecto vitae. </p>
-              </div>
-
-              <div class="jobs-item with-thumb">
-                <div class="thumb"><img src="assets/images/icon/title-page.png" alt=""></div>
-                <div class="date">27 <span>Jun</span></div>
-                <h6 class="title"><a href="#">Service Advisor</a></h6>
-                <span class="meta">Ambad, Nashik</span>
-                <ul class="top-btns">
-                  <a href="" class="btn btn-outline-primary btn-sm"  data-toggle="modal" data-target="#apply">Apply</a>
-                </ul>
-                <p class="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit, maxime, excepturi, mollitia, voluptatibus similique aliquid a dolores autem laudantium sapiente ad enim ipsa modi laborum accusantium deleniti neque architecto vitae. </p>
-              </div>
-          </div>
-          <!-- end .page-content --> 
+      <div class="form-group col-md-4">
+        <label>Current CTC</label>
+        <input type="text" class="form-control" required placeholder="Salary"/>
         </div>
+        <div class="form-group col-md-4">
+          <label>Upload Resume</label>
+          <input type="file" class="form-control" required style="line-height: 2.2;"/>
+          </div>
+          <div class="form-group col-md-12 my-4">
+            <button type="submit" name="submit" class="btn-effect btn-submit v2">Submit now</button>
+          </div>
+        </div>
+      </form>
+    </div>
       </div>
       <!-- end .container --> 
     </div>
